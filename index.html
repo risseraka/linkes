@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <link href="src/css/links.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div style="float:left;">
+            <div style="width: 500px">
+                <div id="themesDiv">
+                    <form id="themeForm">
+                        <div>
+                            <label>Theme:</label>
+                            <input id="themeInput" type="text" value=""/>
+                        </div>
+                    </form>
+                    </ul>
+                    <ul id="themesUl">
+                    </ul>
+                </div>
+                <div id="navDiv">
+                    <div>
+                        <span>Current theme:</span>
+                        <span id="currentThemeSpan">Cats</span>
+                    </div>
+                    <a href="javascript:void(0)">..</a>
+                </div>
+                <div id="linksDiv">
+                    <form id="linkForm">
+                        <div id="linkUrlDiv">
+                            <label>URL:</label>
+                            <input id="linkUrlInput" type="text" value=""/>
+                        </div>
+                        <div id="linkNameDiv">
+                            <label>Name:</label>
+                            <input id="linkNameInput" type="text" value=""/>
+                        </div>
+                        <input id="linkOkButton" type="submit" value="OK"/>
+                        <input id="linkCancelButton" type="button" value="Cancel"/>
+                    </form>
+                    <ul id="linksUl">
+                    </ul>
+                </div>
+            </div>
+            <div style="width:500px;">
+                <textarea id="dumpArea" rows="10" cols="50"></textarea>
+                <button id="dumpButton">Dump data</button>
+            </div>
+        </div>
+        <div style="float:left; width:50%">
+            <iframe id="viewer" style="width:100%; height:500px;"></iframe>
+        </div>
+        <script src="src/js/lib.js" type="text/Javascript"></script>
+        <script src="src/js/deep.js" type="text/Javascript"></script>
+        <script src="src/js/domizer.js" type="text/Javascript"></script>
+        <script src="src/js/themes.js" type="text/Javascript"></script>
+    </body>
+</html>

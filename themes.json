@@ -1,0 +1,85 @@
+loadThemes(
+/*
+[{
+    "name": "Cats",
+    "links": [{
+        "name": "Cats on Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Cats"
+    }, {
+        "name": "Cats on Wikipedia FR",
+        "url": "http://fr.wikipedia.org/wiki/Chats"
+    }, {
+        "url": "test",
+        "name": "test"
+    }]
+}, {
+    "name": "Dogs",
+    "links": [{
+        "name": "Dogs on Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Dogs"
+    }, {
+        "name": "Dogs on Wikipedia FR",
+        "url": "http://fr.wikipedia.org/wiki/Chiens"
+    }]
+}, {
+    "name": "Horses",
+    "links": [{
+        "name": "Horses on Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Horses"
+    }, {
+        "name": "Horses on Wikipedia FR",
+        "url": "http://fr.wikipedia.org/wiki/Chevaux"
+    }]
+}, {
+    "name": "Pigs",
+    "links": [{
+        "name": "Pigs on Wikipedia",
+        "url": "http://en.wikipedia.org/wiki/Pigs"
+    }, {
+        "name": "Pigs on Wikipedia FR",
+        "url": "http://fr.wikipedia.org/wiki/Cochons"
+    }]
+}]
+*/
+
+[{
+    "name": "Chris Clark - Turning Dragon",
+    "links": [{
+        "url": "http://en.wikipedia.org/wiki/Turning_Dragon",
+        "name": "Wikipedia EN"
+    }, {
+        "url": "http://www.youtube.com/v/Qgxv3WBom6I",
+        "name": "1 - New Year Storm"
+    }, {
+        "url": "http://www.youtube.com/v/M4rhgu8MfhQ",
+        "name": "2 - Volcan Vein"
+    }, {
+        "url": "http://www.youtube.com/v/8Y6ZqYab8Rc",
+        "name": "3 - Truncation Horn"
+    }, {
+        "url": "http://www.youtube.com/v/ZC3DVnmRY8Q",
+        "name": "4 - For Wolves Crew"
+    }, {
+        "url": "http://www.youtube.com/v/a3iRS4i2Thk",
+        "name": "5 - Violenl"
+    }, {
+        "url": "http://www.youtube.com/v/v6gIqmutkIk",
+        "name": "6 - Gaskarth / Cyrk Dedication"
+    }, {
+        "url": "http://www.youtube.com/v/VuQFBrMfiuc",
+        "name": "7 - Ache Of The North"
+    }, {
+        "url": "http://www.youtube.com/v/FS5A-tyTYKo",
+        "name": "8 - Mercy Sines"
+    }, {
+        "url": "http://www.youtube.com/v/_kmUlZY5Rec",
+        "name": "9 - Hot May Slides"
+    }, {
+        "url": "http://www.youtube.com/v/14KRlQ5ndRE",
+        "name": "10 - Beg"
+    }, {
+        "url": "http://www.youtube.com/v/AseyCAwa0xw",
+        "name": "11 - Penultimate Persian"
+    }]
+}]
+);

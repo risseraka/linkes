@@ -1,0 +1,20 @@
+#linksDiv, #navDiv {
+    visibility: hidden;
+}
+
+/*#linkOkButton,*/
+#linkNameDiv {
+    display: none;
+}
+
+#themeInput, #linkUrlInput, #linkNameInput {
+    width: 400px;
+}
+
+#currentThemeSpan {
+}
+
+a {
+    cursor: pointer;
+    color: blue;
+}
